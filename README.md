@@ -5,9 +5,11 @@ commit 5c186c6777c9438ff4681929c9c25c98dee28bef
 
 it has been compiled to use libgfixnit graphics initialization with legacy vga txt-mode
 
+ISSUE - descriptor and gbe present, however ethernet port is not recognized
+
 Rom is 8mb, I could compile the 4 and 16mb as well for this model but
-I owne just a laptop and it has a 8mb chip so I will not be able to 
-test it.
+I own just a laptop and it has a 8mb chip so I will not be able to 
+test roms for 4 or 16 mb chips
 
 gbe.bin has been added with a random MAC address 00:11:22:33:44:55
 
