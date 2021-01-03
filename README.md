@@ -1,0 +1,1 @@
+# x200-coreboot-seabios-legacy-vga-txt-mode
